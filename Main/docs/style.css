@@ -92,7 +92,7 @@ main {
 
 .hero-banner {
   background: rgb(68, 88, 120);
-  background-image: url("C:\Users\patri\Desktop\Main\docs\02-hero-bg.jpg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
+  background-image: url("C:\Users\patri\Desktop\Main\Portfolio-Page\Main\docs\02-hero-bg.jpg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
   background-size: cover;
   background-position: center;
   background-blend-mode: soft-light;
@@ -225,23 +225,23 @@ main {
 
 /* portfolio project images */
 .run-buddy {
-  background-image: url("C:\Users\patri\Desktop\Main\docs\02-run-buddy.jpg");
+  background-image: url("C:\Users\patri\Desktop\Main\Portfolio-Page\Main\docs\02-run-buddy.jpg");
 }
 
 .led-wall {
-  background-image: url("C:\Users\patri\Desktop\Main\docs\02-portfolio-1.jpg");
+  background-image: url("C:\Users\patri\Desktop\Main\Portfolio-Page\Main\docs\02-portfolio-1.jpg");
 }
 
 .react-calc {
-  background-image: url("C:\Users\patri\Desktop\Main\docs\02-portfolio-2.jpg");
+  background-image: url("C:\Users\patri\Desktop\Main\Portfolio-Page\Main\docs\02-portfolio-2.jpg");
 }
 
 .pastel-puzzles {
-  background-image: url("C:\Users\patri\Desktop\Main\docs\02-portfolio-3.jpg");
+  background-image: url("C:\Users\patri\Desktop\Main\Portfolio-Page\Main\docs\02-portfolio-3.jpg");
 }
 
 .surf-report {
-  background-image: url("C:\Users\patri\Desktop\Main\docs\02-portfolio-4.jpg");
+  background-image: url("C:\Users\patri\Desktop\Main\Portfolio-Page\Main\docs\02-portfolio-4.jpg");
 }
 
 /* end portfolio project images */
